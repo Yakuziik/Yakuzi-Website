@@ -1,3 +1,16 @@
+
+
+
+
+
+.move1 {
+  right: 150px;
+}
+
+
+
+
+
 html,
 body {
     margin: 0;
@@ -19,13 +32,32 @@ body {
     color: #fff;
     background: #111;
     cursor: pointer;
-    position: relative;
+    position: absolute;
     z-index: 15;
     border-radius: 10px;
-    top: 150px;
-    right: 300px;
+    left: 850px;
+    top: 650px;
+    
     
 }
+
+.glow-on-hover {
+    width: 220px;
+    height: 50px;
+    border: none;
+    outline: none;
+    color: #fff;
+    background: #111;
+    cursor: pointer;
+    position: absolute;
+    z-index: 15;
+    border-radius: 10px;
+    left: 850px;
+    top: 650px;
+    
+    
+}
+
 
 .glow-on-hover:before {
     content: '';
@@ -80,7 +112,7 @@ body {
 
 
 
-/* Background */
+
 
 #videoFullscreen {
   position: fixed;
@@ -104,7 +136,7 @@ body {
 }
 
 .container {
-  left: 150px;
+  text-align: center;
   z-index:15
 }
 
