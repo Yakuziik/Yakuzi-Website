@@ -15,4 +15,4 @@
 ---
 
 <h1 allign="center">- License -</h1>
-#### This template is free to use to everyone
+This template is free to use to everyone
