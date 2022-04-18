@@ -11,3 +11,8 @@
 <a href="https://github.com/Kayo005">Contributor</a> |
 
 </p>
+
+---
+
+<h1 allign="center">- License -</h1>
+#### This template is free to use to everyone
