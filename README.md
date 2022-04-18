@@ -1,2 +1,2 @@
 # Yakuzi-Website
-![alt text](https://www.protego.cz/favicon.ico)
+![alt text](https://www.yakuzi.xyz/icon.png)
